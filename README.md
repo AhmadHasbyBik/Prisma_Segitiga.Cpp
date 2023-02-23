@@ -1,7 +1,7 @@
                                      CODE EXPLANATION
                                         by Abeeek
 The code above is a C++ program that defines a class prismasegitiga represents a triangular prism.
-The class of code has private data members alassegitiga, tinggisegitiga, and rusukprisma, 
+The class of code has private data members alas segitiga, tinggi segitiga, and rusuk prisma, 
 which represent the base length, height, and side length of the prism, respectively. 
 It also has public member functions that calculate the volume, surface area, and perimeter of the prism.
 
