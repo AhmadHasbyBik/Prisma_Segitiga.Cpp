@@ -16,6 +16,6 @@ calculates the perimeter of the base triangle and assigns it to the keliling dat
 The program also defines a member function volumeprisma that takes the base length, height, and 
 side length of the prism as parameters and calculates the volume of the prism.
 
-In the main() function, the program creates three objects of the prismasegitiga class using 
+In the main() function, the program creates three objects of the prisma segitiga class using 
 the different constructors, and calls the member functions to calculate and display the surface area, 
 perimeter, and volume of the prism.
