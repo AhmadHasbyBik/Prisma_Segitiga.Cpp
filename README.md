@@ -18,4 +18,4 @@ side length of the prism as parameters and calculates the volume of the prism.
 
 In the main() function, the program creates three objects of the prisma segitiga class using 
 the different constructors, and calls the member functions to calculate and display the surface area, 
-perimeter, and volume of the prismmm
+perimeter, and volume of the prism.
