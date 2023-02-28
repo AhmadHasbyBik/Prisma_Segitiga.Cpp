@@ -20,9 +20,9 @@ In the main() function, the program creates three objects of the prisma segitiga
 the different constructors, and calls the member functions to calculate and display the surface area, 
 perimeter, and volume of the prism.
 
-aaa
-bbbb
-cccc
-dddd
-eeee
-ffff
+
+gy
+
+
+
+
